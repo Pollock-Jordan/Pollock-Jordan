@@ -1,4 +1,4 @@
-Hello, my name is Sarah.
+Hello, my name is Sarah (she/her).
 I am a Computer Science Co-op Student at Dalhousie University in Halifax, NS, Canada.
 I am currently searching for my second co-op job placement for January 2022.
 You are free to explore my academic/work related repositories.
